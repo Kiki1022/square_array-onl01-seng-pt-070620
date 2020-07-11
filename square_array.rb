@@ -4,7 +4,7 @@ def square_array(array)
     number = number*number
   puts #{number}
 end
-return array
+return squared_array
   
 end
 
